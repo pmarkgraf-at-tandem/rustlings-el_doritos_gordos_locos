@@ -1,10 +1,11 @@
 # Order
 
-* Nicole
-* Aldo
 * Ryan
-* Phil H
 * Matt
+* Nicole
+* Phil H
+* Aldo
+
 * Phil M
 
 ## end
