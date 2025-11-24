@@ -1,5 +1,17 @@
 # Retrospectives
 
+## 2025-11-24
+
+### What went well today?
+
+* Stopping and asking questions
+* Using the hints was very helpful
+  * Almost too good... like AI
+* We are getting better at navigating
+  * being clear and specific about what to change and where
+* Good to know about destructuring and tuples
+* Seeing map was interesting, but need to digest that more
+
 ## 2025-11-17
 
 ### What did you find interesting today?
