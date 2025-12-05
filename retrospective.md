@@ -1,5 +1,23 @@
 # Retrospectives
 
+## 2025-12-05
+
+### What do I want to share
+
+* The Rust documentation looks pretty good
+* On larger exercises, rotate each test case; not the whole exercise
+
+## 2025-12-01
+
+### What did I like or learn today?
+
+* I learned more about ownership and the difference between passing by reference and value
+* First time hitting the Rust syntax, and new concepts like ownership
+* Next time dropping someone in the middle, I should do a prep meeting with them ahead of time
+* Good to learn about how garbage collection works in Rust
+* Unit Structs are interesting... will need more examples to really grasp what they are for
+* Ownership guards are interesting
+
 ## 2025-11-24
 
 ### What went well today?
