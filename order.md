@@ -8,10 +8,9 @@
 * Patricia -->
 
 * Aldo
-* Patricia
 * Peter
 * Bassam
-* Gabe
+* Abhijit
 
 * Phil M
 
