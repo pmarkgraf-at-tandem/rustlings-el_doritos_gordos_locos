@@ -2,11 +2,11 @@
 fn placeholder() {}
 
 fn string_slice(arg: &str) {
-    println!("{arg}"); 
+    println!("{arg}");
 }
 
 fn string(arg: String) {
-    println!("{arg}"); 
+    println!("{arg}");
 }
 
 // TODO: Here are a bunch of values - some are `String`, some are `&str`.
@@ -21,11 +21,13 @@ fn main() {
 
     string("rust is fun!".to_owned());
 
-    #[expect(clippy::useless_conversion, reason = "Exercise example needs to show both forms")]
+    #[expect(
+        clippy::useless_conversion,
+        reason = "Exercise example needs to show both forms"
+    )]
     string_slice("nice weather".into());
 
     string("nice weather".into());
-
 
     string(format!("Interpolation {}", "Station"));
 

@@ -9,8 +9,9 @@
 
 * Aldo
 * Peter
-* Bassam
-* Abhijit
+* David
+* Ryan
+* Matt
 
 * Phil M
 

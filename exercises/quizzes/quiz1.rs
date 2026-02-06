@@ -18,10 +18,8 @@ fn calculate_price_of_apples(apples: u32) -> u32 {
     }
 }
 
-
 fn main() {
     // You can optionally experiment here.
-
 }
 
 // Don't change the tests!

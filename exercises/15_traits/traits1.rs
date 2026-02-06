@@ -2,10 +2,18 @@
 // implementing this trait.
 trait AppendBar {
     fn append_bar(self) -> Self;
+    fn append_bar_no_return(&mut self);
 }
 
 impl AppendBar for String {
     // TODO: Implement `AppendBar` for the type `String`.
+    fn append_bar(self) -> Self {
+        self + "Bar"
+    }
+
+    fn append_bar_no_return(&mut self) {
+        self.push_str("Bar");
+    }
 }
 
 fn main() {
@@ -26,5 +34,12 @@ mod tests {
     #[test]
     fn is_bar_bar() {
         assert_eq!(String::from("").append_bar().append_bar(), "BarBar");
+    }
+
+    #[test]
+    fn is_foo_bar_in_place() {
+        let mut sut = String::from("Foo");
+        sut.append_bar_no_return();
+        assert_eq!(sut, "FooBar");
     }
 }

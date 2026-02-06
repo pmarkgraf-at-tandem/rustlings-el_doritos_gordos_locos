@@ -1,5 +1,17 @@
 # Retrospectives
 
+## 2026-02-06
+
+### What went well today?
+* Really helpful to go through the exercises a second time
+* New concepts seemed straight-forward
+
+### Thoughts
+* No shortcuts - need to read and understand the language deeply
+* Still can pick up on nuances even when experienced
+* Need to do practical projects helps solidify the concepts
+
+
 ## 2025-12-05
 
 ### What do I want to share
