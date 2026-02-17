@@ -9,9 +9,9 @@
 
 * Aldo
 * Peter
-* David
+* Jake
 * Ryan
-* Matt
+* Ethan
 
 * Phil M
 

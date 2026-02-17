@@ -1,5 +1,13 @@
 # Retrospectives
 
+
+## 2026-02-17
+
+### What went well today?
+* Good to go through the exercises a third time, starting to get more comfortable with the syntax and concepts
+* :)
+* Understanding both methods for trait bounds was helpful (impl Trait vs generic type parameters)
+* Lifetimes and traits are hard, starting to click
 ## 2026-02-06
 
 ### What went well today?
