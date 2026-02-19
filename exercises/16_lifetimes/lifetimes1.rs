@@ -14,12 +14,6 @@ fn longest<'a>(x: &'a str, y: &'a str) -> &'a str {
 
 fn main() {
     // You can optionally experiment here.
-    let mut var = "hi";
-    print!("{var}");
-    {
-        var = longest("abcd", "123");
-    }
-    print!("{var}");
 }
 
 #[cfg(test)]
