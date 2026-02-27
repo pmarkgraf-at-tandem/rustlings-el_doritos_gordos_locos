@@ -8,11 +8,8 @@
 * Patricia -->
 
 * Aldo
-* Peter
-* Matt G
-* Ryan
-* Ethan
-
-* Phil M
+* Matt L
+* Abhijit
+* Gabe
 
 ## end
